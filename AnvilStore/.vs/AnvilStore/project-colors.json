@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d23b8b24-6109-49cd-acc2-60acd029be12": {
+      "ProjectGuid": "d23b8b24-6109-49cd-acc2-60acd029be12",
+      "DisplayName": "AnvilStore",
+      "ColorIndex": 0
+    },
+    "0f4fd889-bcda-472e-9cf8-77b7e91a7eef": {
+      "ProjectGuid": "0f4fd889-bcda-472e-9cf8-77b7e91a7eef",
+      "DisplayName": "AnvilStore.UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
